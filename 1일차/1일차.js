@@ -1,0 +1,10 @@
+let a = 5;
+let b = 7;
+var result = a + b;
+console.log(result);
+var result = a - b;
+console.log(result);
+var result = a * b;
+console.log(result);
+var result = a / b;
+console.log(result);
