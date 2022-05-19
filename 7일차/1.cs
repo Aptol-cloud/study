@@ -9,7 +9,7 @@ int age = 22;
 float height = 178.2f;
 
     
-string = myName = "앱톨";
+string myName = "앱톨";
 
 
     void Start(){
